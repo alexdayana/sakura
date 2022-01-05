@@ -1,1 +1,64 @@
-
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated":true,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": true,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+             "activated": true,
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.scarypoppy.survival_horror_playtime",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://termly.io/privacy-policy/"
+    },
+    "GuideContent": [
+        {
+            "title": "Defeat the leader of the Yakuza",
+            "description": "What to cause some mayhem? Go to the Yakuza office (there are two men wearing black clothes walking outside it). Kill all the members, and go up to the two-door and kill the other members. Then to the doors on your left and kill the leader. You will find in the building 4guns, 1 sword, and 7000 yen. Also remember that if you don’t kill the members, or even die, they will keep following and attacking. "
+        },
+        {
+            "title": "Complete missions at the given designated times",
+            "description": "Head to the school and go to classroom 1-1 (2-1 for male MC). Sit on your seat and wait (or skip time) until the teacher starts teaching. The mission will soon clear (if you skip time, you’ll have to get up and sit on your seat again). "
+        },
+        {
+            "title": " Earn Money from NPC",
+            "description": "You can earn money by befriending the NPCs like the old man from your school, the salesman from Sukuma corp, random drivers (try to steal their car and if they try to run, go after them and throw compliments to avoid getting reported) those 3 NPCs would give you money ranging from 1k to 2k Yen. After befriending them, you can select the option give me some money located at the talk button. But make sure to keep the status of your relationship up or they will not give you money. "
+        },
+        {
+            "title": " Escaping the police without taking damage ",
+            "description": "If the police are after you, lead them to a corner, where one is in front of the other, or stand behind one of the officers. If one shoots another, the other will attack back, and you will no longer be their objective. If one kills the other, additional police will go after them and you will have successfully escaped death. "
+        },
+        {
+            "title": "5. Making an NPC your lover",
+            "description": "When you first start out and you have no money to buy a love potion, simply find your choice and talk to them until they allow you to hug them. Then simply spam hug while you compliment them until the status of the relationship is ranked as a lover.  "
+        }
+    ]
+}
